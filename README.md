@@ -2,6 +2,10 @@
 <h3 align="center">Web Designer • Bot Builder • Figma UI Designer</h3>
 
 <p align="center">
+  <img src="banner.png" alt="Proxima A3 Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+Design+with+Figma.;I+Build+Bots+and+Business+Tools.;Let's+Automate+Everything!" />
 </p>
 
