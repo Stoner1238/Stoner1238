@@ -29,6 +29,12 @@
 
 ---
 
+### 🏆 Certifications
+
+[![Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/fcc65c65cff-7f7a-428c-ac6f-67a532933672/responsive-web-design)
+
+---
+
 ### 🌍 Featured Projects
 
 - 🤖 [Proxima Telegram Bot](https://t.me/PstonerBot)
