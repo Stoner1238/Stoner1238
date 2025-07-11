@@ -38,7 +38,7 @@
 ### 🌍 Featured Projects
 
 - 🤖 [Proxima Telegram Bot](https://t.me/PstonerBot)
-- 💼 Portfolio website – Coming soon!
+- 💼 [Portfolio website](https://stoner1238.github.io/proxim-A3-port/)
 - 🧰 More automation tools launching on [PROXIMA A3](https://instagram.com/proximaa3graphics)
 
 ---
